@@ -16,11 +16,12 @@
 
 :outbox_tray: 2021 Goals: Study front-end development skills and english.
 
-<div>
   <a href="https://github.com/rafaelgadelha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelgadelha&show_icons=true&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/rafaelgadelha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgadelha&layout=compact"/>
-</div>
+  </a>
 
  
 
