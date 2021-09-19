@@ -27,7 +27,7 @@
 
 ## About me
 
-I'm am 28 years old and I live in Brazil, in this year I decided to study my passion that is web programming.
+I am 28 years old and I live in Brazil, in this year I decided to study my passion that is web programming.
 I will be actualizing my GitHub according to my progress in programming and my English skills.
 
 
